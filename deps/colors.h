@@ -1,0 +1,6 @@
+#define RED "\033[38;5;196m"
+#define BLUE "\033[38;5;33m"
+#define YELLOW "\033[38;5;220m"
+#define GREEN "\033[38;5;28m"
+#define RESET "\033[0m"
+#define ORANGE "\033[38;5;208m"
